@@ -1,0 +1,177 @@
+body {
+    position: absolute;
+    width: 1424px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background: url(image/FAW-recipes.jpg);
+}
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.Title {
+    background-color: #a4aeac;
+    width: 1400px;
+    height: 145px;
+}
+
+h1 {
+    /* Savor & Share */
+    position: absolute;
+    width: 354px;
+    height: 48px;
+    left: 180px;
+    top: 72px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+    border: 1px solid #000000;
+}
+
+.home {
+    /* Home */
+    position: absolute;
+    width: 56px;
+    height: 24px;
+    left: 781px;
+    top: 82px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.recipes {
+    /* Reipes */
+    position: absolute;
+    width: 64px;
+    height: 24px;
+    left: 895px;
+    top: 82px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.contact {
+    /* Contact */
+    position: absolute;
+    width: 76px;
+    height: 24px;
+    left: 1015px;
+    top: 82px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.about {
+    /* About */
+    position: absolute;
+    width: 57px;
+    height: 24px;
+    left: 1149px;
+    top: 82px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.intro {
+    /* intro box */
+    /* Rectangle 2 */
+    position: absolute;
+    width: 1240px;
+    height: 157px;
+    left: 100px;
+    top: 192px;
+    background: rgba(180, 188, 187, 0.76);
+    border-radius: 15px;
+}
+
+.content {
+    /* content*/
+    position: absolute;
+    width: 906px;
+    height: 84px;
+    left: 139px;
+    top: 60px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.card1 {
+    /* CArd*/
+    position: absolute;
+    width: 392px;
+    height: 512px;
+    left: 100px;
+    top: 379px;
+    background: rgba(217, 217, 217, 0.64);
+    box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+
+.card1 p {
+    position: absolute;
+    width: 249px;
+    height: 78px;
+    left: 70px;
+    top: 250px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: flex-end;
+    text-align: right;
+    color: #000000;
+}
+
+.card2 {
+    /* CArd*/
+    /* Rectangle 8 */
+    position: absolute;
+    width: 353px;
+    height: 512px;
+    left: 563px;
+    top: 379px;
+    background: rgba(217, 217, 217, 0.64);
+    box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+
+.card3 {
+    /* CArd*/
+    /* Rectangle 7 */
+    position: absolute;
+    width: 353px;
+    height: 512px;
+    left: 987px;
+    top: 379px;
+    background: rgba(217, 217, 217, 0.64);
+    box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
